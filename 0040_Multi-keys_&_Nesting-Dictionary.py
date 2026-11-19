@@ -72,6 +72,5 @@ while True:
 
     if tambah == "n":
         break
-
-# Menampilkan pesan ketika program selesai
+        
 print("\nMenutup Perpustakaan")
